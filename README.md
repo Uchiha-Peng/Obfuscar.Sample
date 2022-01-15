@@ -1,4 +1,4 @@
-﻿﻿### Tutorial: about how to use Obfuscar Obfuscate your important C# code .even published as a single file
+### Tutorial: about how to use Obfuscar Obfuscate your important C# code .even published as a single file
 
 #### 0.create a solution
 
